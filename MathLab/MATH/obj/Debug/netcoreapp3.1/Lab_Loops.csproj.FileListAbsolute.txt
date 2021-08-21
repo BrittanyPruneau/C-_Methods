@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.exe
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.deps.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.dll
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\bin\Debug\netcoreapp3.1\Lab_Loops.pdb
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.dll
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.pdb
+C:\Users\prune\VisualStudioMSSA\C#PersonalPractice\Lab_Loops\Lab_Loops\obj\Debug\netcoreapp3.1\Lab_Loops.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.exe
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.deps.json
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.dll
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\bin\Debug\netcoreapp3.1\MakeChangePt2.pdb
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.dll
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.pdb
+C:\Users\prune\VisualStudioMSSA\CH3Methods\MakeChangePart2HW_wMethods\MakeChangePt2\MakeChangePt2\obj\Debug\netcoreapp3.1\MakeChangePt2.genruntimeconfig.cache

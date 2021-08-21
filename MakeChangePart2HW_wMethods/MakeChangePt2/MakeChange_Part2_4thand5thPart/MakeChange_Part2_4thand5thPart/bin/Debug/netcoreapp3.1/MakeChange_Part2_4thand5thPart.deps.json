@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MakeChange_Part2_4thand5thPart/1.0.0": {
+        "runtime": {
+          "MakeChange_Part2_4thand5thPart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MakeChange_Part2_4thand5thPart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
